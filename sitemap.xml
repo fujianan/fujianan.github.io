@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2019/03/22/CentOS7%E5%AE%89%E8%A3%85cobbler/</loc>
+    
+    <lastmod>2019-04-12T03:40:40.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/01/09/Centos7-openldap-vsftp/</loc>
+    
+    <lastmod>2019-04-12T03:38:04.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2019/01/07/Centos7%E5%AE%89%E8%A3%85jumpserver%E8%B7%B3%E6%9D%BF%E6%9C%BA/</loc>
     
     <lastmod>2019-04-10T02:09:27.000Z</lastmod>
